@@ -4,7 +4,6 @@ Free Instagram python bot, [private Instagram API emulator](https://github.com/i
 
 We are the most used Instagram library on GitHub (according to "Used by" counter). 🎉 Join our [Large Telegram community](https://t.me/instabotproject) for more Instagram tricks. 🚀
 
-
 ## Important
 
 Right now the usage of this library (as probably others too) may harm your Instagram's profile because of new script-detection algorithms. You were warned.
@@ -31,7 +30,7 @@ Install `instabot` with:
 pip install -U instabot
 ```
 
-#### or check [this](https://instagrambot.github.io/docs/en/#installation) for more details.
+#### or check [this](https://instagrambot.github.io/docs/en/#installation) for more details
 
 ### Quickstart
 
