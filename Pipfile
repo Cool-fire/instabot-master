@@ -9,6 +9,7 @@ pysocks = "*"
 bumpversion = "*"
 pytest-cov = '*'
 codecov = '*'
+pylint = "*"
 
 [packages]
 tqdm = "*"
@@ -18,6 +19,7 @@ responses = "*"
 six = "*"
 huepy = "*"
 pytz = "*"
+instabot = {editable = true,path = "."}
 
 [requires]
 python_version = "3.7"
