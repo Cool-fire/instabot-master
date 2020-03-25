@@ -45,6 +45,8 @@ apt-cache policy iptables
 # generate ssh-key 
 
 ssh-keygen -t rsa -b 4096 -C "joeshakely@gmail.com"
+sudo apt-get install xsel
+cat '/home/joe/.ssh/id_rsa.pub' | xsel -ib
 
 # change ownership of a file
 
