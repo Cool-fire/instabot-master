@@ -1,6 +1,6 @@
 LAST_COMMIT_MESSAGE="$(git log --no-merges -2 --pretty=%B)"
-git config --global user.email "travis@travis-ci.org"
-git config --global user.name "Travis CI"
+git config --global user.email "joeshakely@gmail.com"
+git config --global user.name "messidagod"
 git tag -a "${COMMIT_MESSAGE}" -m "${LAST_COMMIT_MESSAGE}" -m "[ci skip]"
 git remote remove origin
 git remote add origin https://${GITHUB_TOKEN}@github.com/instagrambot/instabot.git
