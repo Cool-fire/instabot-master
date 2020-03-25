@@ -120,3 +120,6 @@ state/
 
 # Qiskit junkies
 *qiskit*
+
+# files with passwords in them 
+lkusrs.py
