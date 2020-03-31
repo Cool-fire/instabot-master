@@ -125,3 +125,4 @@ state/
 
 # files with passwords in them 
 lkusrs.py
+/.vs
