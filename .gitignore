@@ -127,6 +127,9 @@ state/
 lkusrs.py
 /.vs
 
+/mypython 
+mypython/
+
 # personal
 linux-commands.sh 
 linuxScriptsJoe.sh 
