@@ -10,6 +10,7 @@ bumpversion = "*"
 pytest-cov = '*'
 codecov = '*'
 pylint = "*"
+autopep8 = "*"
 
 [packages]
 tqdm = "*"

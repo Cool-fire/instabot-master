@@ -98,7 +98,7 @@ class API(object):
                     base_path, "log/instabot_{}.log".format(id(self))
                 )
 
-            fh = logging.FileHandler(filename=log_filename)
+            fh = logging.FileHandler(filename=log_filename, encoding='utf-8')
             fh.setLevel(loglevel_file)
             fh.setFormatter(
                 logging.Formatter(
