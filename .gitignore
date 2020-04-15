@@ -126,3 +126,7 @@ state/
 # files with passwords in them 
 lkusrs.py
 /.vs
+
+# personal
+linux-commands.sh 
+linuxScriptsJoe.sh 
