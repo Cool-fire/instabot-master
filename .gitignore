@@ -1,6 +1,6 @@
 .github
 activate-script
-# File with login and password
+# File with login and password.
 secret.txt
 
 # Mac OS X stuff
