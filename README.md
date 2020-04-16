@@ -10,7 +10,7 @@ Right now the usage of this library (as probably others too) may harm your Insta
 
 ---
 
-### [Read the Docs](https://instagrambot.github.io/docs/) | [Contribute](https://github.com/instagrambot/docs/blob/master/CONTRIBUTING.md)
+### [Read the Docs](https://instagrambot.github.io/messidagod/instabot-master/tree/master/docs/en) | [Contribute](https://github.com/instagrambot/docs/blob/master/CONTRIBUTING.md)
 
 ---
 
