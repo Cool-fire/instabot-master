@@ -1,4 +1,4 @@
 #!/bin/bash
 
-pip install pipenv
+pip3 install pipenv
 pipenv install --dev --skip-lock

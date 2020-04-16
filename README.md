@@ -10,7 +10,7 @@ Right now the usage of this library (as probably others too) may harm your Insta
 
 ---
 
-### [Read the Docs](https://github.com/messidagod/instabot-master/tree/master/docs/en)
+### [Read the Docs](https://github.com/MessiDaGod/instabot-master/tree/master/docs/en)
 ---
 
 [![Telegram Chat](https://img.shields.io/badge/chat%20on-Telegram-blue.svg)](https://t.me/instabotproject)
@@ -38,7 +38,3 @@ pip install -U instabot
 Instabot has a lot of predefined filters (like skipping very popular accounts because they will not notice you) which maximizes the overall impact. But you can remove them if you like or even set your parameters: (full list [here](https://github.com/instagrambot/instabot/blob/master/instabot/bot/bot.py#L86))
 
 <img src="https://user-images.githubusercontent.com/5613295/62396777-b5ab8600-b57c-11e9-90a7-56b7294a9a6a.png" width="400">
-
-If this library solved some of your problems, please consider [buying](https://www.buymeacoffee.com/okhlopkov) a coffee, sending some bucks to [PayPal](https://paypal.me/okhlopkov/10) or become our [patron](https://patreon.com/join/morejust). :wink:
-
-<a href="https://www.buymeacoffee.com/okhlopkov" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
