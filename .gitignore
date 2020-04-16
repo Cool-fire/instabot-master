@@ -112,7 +112,7 @@ bot_cp_*
 nohup.out
 
 # VS Code
-.vscode
+
 state/
 
 # Settings files
