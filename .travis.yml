@@ -11,8 +11,8 @@ python:
   - "pypy"
   - "pypy3"
 
-env:
-  - PRE_COMMIT_CMD=""
+# env:
+#   - PRE_COMMIT_CMD=""
 
 matrix:
   include:
