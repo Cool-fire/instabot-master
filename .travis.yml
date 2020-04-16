@@ -17,7 +17,7 @@ env:
 matrix:
   include:
     - name: "pre-commit"
-      python: "3.7"
+      python: "3.8"
       env:
         - PRE_COMMIT_CMD="pre-commit run --all-files --show-diff-on-failure"
   allow_failures:
