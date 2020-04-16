@@ -10,8 +10,7 @@ Right now the usage of this library (as probably others too) may harm your Insta
 
 ---
 
-### [Read the Docs](https://instagrambot.github.io/messidagod/instabot-master/tree/master/docs/en) | [Contribute](https://github.com/instagrambot/docs/blob/master/CONTRIBUTING.md)
-
+### [Read the Docs](https://github.com/messidagod/instabot-master/tree/master/docs/en)
 ---
 
 [![Telegram Chat](https://img.shields.io/badge/chat%20on-Telegram-blue.svg)](https://t.me/instabotproject)
